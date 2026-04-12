@@ -1,0 +1,2 @@
+monitor nginx
+monitor jenkins
