@@ -2,3 +2,4 @@ nginx=1.24
 jenkins=2.440
 docker=26.0
 git=2.43
+k8s=3.40
