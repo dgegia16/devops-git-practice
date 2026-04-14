@@ -5,3 +5,4 @@ Branch A change
 Branch B change
 
 Updated from GitHub
+Accidental bug
